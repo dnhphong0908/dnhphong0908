@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+My name is Đặng Nguyễn Huy Phong.
+I am 2th-year student at UIT-VNHCM College.
 <!--
 **dnhphong0908/dnhphong0908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
